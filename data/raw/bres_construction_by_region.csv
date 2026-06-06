@@ -1,0 +1,40 @@
+
+"Business Register and Employment Survey : open access"
+"ONS Crown Copyright Reserved [from Nomis on 6 June 2026]"
+"Analysis   :","standard"
+"Industry   :","43 : Specialised construction activities"
+"Employment status:","Employees"
+"measure    :","Count"
+
+"region","2015","","2016","","2017","","2018","","2019","","2020","","2021","","2022","","2023","","2024",""
+
+"East",82000,,77000,,83000,,81000,,93000,,108000,,89000,,113000,,91000,,104000
+"East Midlands",62000,,63000,,47000,,59000,,63000,,49000,,54000,,73000,,48000,,58000
+"London",60000,,78000,,104000,,77000,,89000,,80000,,97000,,75000,,82000,,80000
+"North East",28000,,25000,,20000,,32000,,28000,,30000,,34000,,29000,,34000,,34000
+"North West",79000,,64000,,71000,,85000,,77000,,64000,,84000,,91000,,99000,,110000
+"Scotland",75000,,75000,,75000,,71000,,75000,,63000,,88000,,82000,,70000,,85000
+"South East",106000,,107000,,130000,,110000,,116000,,128000,,140000,,120000,,109000,,135000
+"South West",73000,,69000,,84000,,60000,,75000,,75000,,72000,,77000,,91000,,67000
+"Wales",24000,,36000,,24000,,33000,,33000,,37000,,26000,,34000,,36000,,31000
+"West Midlands",81000,,51000,,64000,,77000,,72000,,58000,,55000,,59000,,66000,,59000
+"Yorkshire and The Humber",56000,,60000,,61000,,62000,,76000,,74000,,57000,,77000,,63000,,83000
+
+
+
+"","The level of rounding applied varies by estimate. Please see article for"
+"","further information on how rounding is applied"
+"","https://www.nomisweb.co.uk/articles/1103.aspx"
+"",""
+
+"","ONS have identified a quality issue resulting from geographical misreporting"
+"","that affects output for the years 2015 to 2024. While the main headline"
+"","employment estimates at national and regional levels remain unaffected, the"
+"","employment estimates for the local authorities of Hillingdon and Hounslow, and certain"
+"","areas within them, are compromised and thus should be used with caution. In"
+"","line with our BRES revision policy, ONS will revise the provisional 2024 tables"
+"","as part of the annual update in October 2026. Note that earlier years will"
+"","not be revised, as BRES provides point‑in‑time estimates and is not designed"
+"","for time‑series analysis."
+"",""
+

@@ -24,7 +24,7 @@ version of that same analysis.
 - **ONS Labour Force Survey** — trades employment by UK region and year
 - **GOV.UK Planning Portal** — residential building permit counts by region
 - **Pricing benchmarks** — average electrician day rates by region, sourced 
-  from Checkatrade and MyBuilder (manually compiled reference table)
+  from the internet (manually compiled reference table)
 - **ONS Geography Portal** — UK region reference table
 
 All raw data files are stored in `/data/raw` and have not been modified from 

@@ -47,7 +47,6 @@ trades-market
 
 ## Key Findings
 
-<<<<<<< HEAD
 - As of 2024, the East Midlands and North East show the highest ratio of 
   housing starts to available workers, signalling strong unmet demand.
 - Housebuilding growth was positive across all English regions in 2021, but

@@ -45,7 +45,17 @@ trades-market
 ├── notes/            # Data source references and field notes
 └── README.md
 
-## Status
+## Key Findings
 
-Work in progress. Sprint 1 covers data acquisition and SQL analysis. 
-Sprint 2 covers the Tableau dashboard and final documentation.
+- As of 2024, the East Midlands and North East show the highest ratio of 
+  housing starts to available workers, signalling strong unmet demand.
+- Housebuilding growth was positive across all English regions in 2021, but
+  the demand has been on the decline. 2023 and 2024 saw negative YoY percentage
+  changes in housebuilding starts in all English regions.
+- High-demand regions do not consistently command the highest day rates, 
+  suggesting pricing has not yet caught up with demand in those markets.
+
+## Dashboard
+
+![UK Trades Market Dashboard](tableau/dashboard.png)
+[View interactive dashboard on Tableau Public](https://public.tableau.com/views/UKTradesMarketAnalysis/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

@@ -1,10 +1,127 @@
-"region_name","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024"
-"East of England",82000,77000,83000,81000,93000,108000,89000,113000,91000,104000
-"East Midlands",62000,63000,47000,59000,63000,49000,54000,73000,48000,58000
-"London",60000,78000,104000,77000,89000,80000,97000,75000,82000,80000
-"North East",28000,25000,20000,32000,28000,30000,34000,29000,34000,34000
-"North West",79000,64000,71000,85000,77000,64000,84000,91000,99000,110000
-"South East",106000,107000,130000,110000,116000,128000,140000,120000,109000,135000
-"South West",73000,69000,84000,60000,75000,75000,72000,77000,91000,67000
-"West Midlands",81000,51000,64000,77000,72000,58000,55000,59000,66000,59000
-"Yorkshire and The Humber",56000,60000,61000,62000,76000,74000,57000,77000,63000,83000
+
+"Business Register and Employment Survey : open access"
+"ONS Crown Copyright Reserved [from Nomis on 11 June 2026]"
+"Analysis   :","standard"
+"Industry   :","43 : Specialised construction activities"
+"Employment status:","Employees"
+"measure    :","Count"
+
+"Date","East","","East Midlands","","London","","North East","","North West","","South East","","South West","","West Midlands","","Yorkshire and The Humber",""
+
+2015,82000,,62000,,60000,,28000,,79000,,106000,,73000,,81000,,56000
+2016,77000,,63000,,78000,,25000,,64000,,107000,,69000,,51000,,60000
+2017,83000,,47000,,104000,,20000,,71000,,130000,,84000,,64000,,61000
+2018,81000,,59000,,77000,,32000,,85000,,110000,,60000,,77000,,62000
+2019,93000,,63000,,89000,,28000,,77000,,116000,,75000,,72000,,76000
+2020,108000,,49000,,80000,,30000,,64000,,128000,,75000,,58000,,74000
+2021,89000,,54000,,97000,,34000,,84000,,140000,,72000,,55000,,57000
+2022,113000,,73000,,75000,,29000,,91000,,120000,,77000,,59000,,77000
+2023,91000,,48000,,82000,,34000,,99000,,109000,,91000,,66000,,63000
+2024,104000,,58000,,80000,,34000,,110000,,135000,,67000,,59000,,83000
+
+
+
+"","The level of rounding applied varies by estimate. Please see article for"
+"","further information on how rounding is applied"
+"","https://www.nomisweb.co.uk/articles/1103.aspx"
+"",""
+
+"","ONS have identified a quality issue resulting from geographical misreporting"
+"","that affects output for the years 2015 to 2024. While the main headline"
+"","employment estimates at national and regional levels remain unaffected, the"
+"","employment estimates for the local authorities of Hillingdon and Hounslow, and certain"
+"","areas within them, are compromised and thus should be used with caution. In"
+"","line with our BRES revision policy, ONS will revise the provisional 2024 tables"
+"","as part of the annual update in October 2026. Note that earlier years will"
+"","not be revised, as BRES provides point‑in‑time estimates and is not designed"
+"","for time‑series analysis."
+"",""
+
+
+
+
+
+
+
+"Business Register and Employment Survey : open access"
+"ONS Crown Copyright Reserved [from Nomis on 11 June 2026]"
+"Analysis   :","standard"
+"Industry   :","43 : Specialised construction activities"
+"Employment status:","Full-time employees"
+"measure    :","Count"
+
+"Date","East","","East Midlands","","London","","North East","","North West","","South East","","South West","","West Midlands","","Yorkshire and The Humber",""
+
+2015,73000,,54000,,50000,,26000,,73000,,93000,,65000,,72000,,50000
+2016,61000,,55000,,70000,,23000,,56000,,89000,,61000,,44000,,51000
+2017,70000,,39000,,84000,,18000,,62000,,110000,,72000,,56000,,54000
+2018,69000,,48000,,63000,,28000,,70000,,93000,,50000,,65000,,56000
+2019,78000,,54000,,70000,,25000,,66000,,100000,,66000,,62000,,66000
+2020,94000,,41000,,66000,,24000,,57000,,109000,,64000,,48000,,62000
+2021,72000,,46000,,72000,,30000,,71000,,117000,,62000,,46000,,51000
+2022,94000,,62000,,55000,,26000,,80000,,99000,,65000,,50000,,67000
+2023,78000,,41000,,63000,,29000,,84000,,93000,,80000,,59000,,53000
+2024,89000,,50000,,64000,,30000,,100000,,115000,,58000,,50000,,72000
+
+
+
+"","The level of rounding applied varies by estimate. Please see article for"
+"","further information on how rounding is applied"
+"","https://www.nomisweb.co.uk/articles/1103.aspx"
+"",""
+
+"","ONS have identified a quality issue resulting from geographical misreporting"
+"","that affects output for the years 2015 to 2024. While the main headline"
+"","employment estimates at national and regional levels remain unaffected, the"
+"","employment estimates for the local authorities of Hillingdon and Hounslow, and certain"
+"","areas within them, are compromised and thus should be used with caution. In"
+"","line with our BRES revision policy, ONS will revise the provisional 2024 tables"
+"","as part of the annual update in October 2026. Note that earlier years will"
+"","not be revised, as BRES provides point‑in‑time estimates and is not designed"
+"","for time‑series analysis."
+"",""
+
+
+
+
+
+
+
+"Business Register and Employment Survey : open access"
+"ONS Crown Copyright Reserved [from Nomis on 11 June 2026]"
+"Analysis   :","standard"
+"Industry   :","43 : Specialised construction activities"
+"Employment status:","Part-time employees"
+"measure    :","Count"
+
+"Date","East","","East Midlands","","London","","North East","","North West","","South East","","South West","","West Midlands","","Yorkshire and The Humber",""
+
+2015,9000,,8000,,10000,,2250,,6000,,12000,,8000,,9000,,6000
+2016,15000,,8000,,9000,,3000,,8000,,17000,,8000,,7000,,9000
+2017,13000,,8000,,21000,,2500,,9000,,20000,,12000,,9000,,7000
+2018,12000,,11000,,14000,,4000,,15000,,17000,,10000,,12000,,7000
+2019,15000,,9000,,19000,,2500,,11000,,16000,,9000,,10000,,9000
+2020,14000,,8000,,14000,,5000,,6000,,19000,,12000,,11000,,12000
+2021,16000,,8000,,25000,,3000,,12000,,24000,,10000,,9000,,6000
+2022,19000,,10000,,20000,,3000,,11000,,21000,,12000,,9000,,10000
+2023,13000,,7000,,19000,,5000,,15000,,16000,,10000,,8000,,10000
+2024,15000,,8000,,15000,,4000,,10000,,20000,,9000,,9000,,11000
+
+
+
+"","The level of rounding applied varies by estimate. Please see article for"
+"","further information on how rounding is applied"
+"","https://www.nomisweb.co.uk/articles/1103.aspx"
+"",""
+
+"","ONS have identified a quality issue resulting from geographical misreporting"
+"","that affects output for the years 2015 to 2024. While the main headline"
+"","employment estimates at national and regional levels remain unaffected, the"
+"","employment estimates for the local authorities of Hillingdon and Hounslow, and certain"
+"","areas within them, are compromised and thus should be used with caution. In"
+"","line with our BRES revision policy, ONS will revise the provisional 2024 tables"
+"","as part of the annual update in October 2026. Note that earlier years will"
+"","not be revised, as BRES provides point‑in‑time estimates and is not designed"
+"","for time‑series analysis."
+"",""
+
